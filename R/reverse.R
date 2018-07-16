@@ -1,6 +1,7 @@
 #' Reverse
 #'
-#' Reverse  a vector
+#' Reverse returns a copy of a vector whose elemnets are in the reverse order
+#' The end.
 #' @param x
 #'
 #' @return a vector
